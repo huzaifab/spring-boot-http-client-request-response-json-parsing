@@ -87,8 +87,4 @@ GET request url http://localhost:8080/httpresponse/6
 
 Same way id can be between 1 to 8
 
-you are all set
-
--
-
-
+- you are all set
