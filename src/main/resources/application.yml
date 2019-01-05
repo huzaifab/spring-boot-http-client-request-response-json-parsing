@@ -1,0 +1,4 @@
+http:
+  json:
+    url: http://api.myjson.com/bins/17akzo
+    contenttype: application/json;charset=utf-8
